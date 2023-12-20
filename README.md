@@ -16,7 +16,7 @@ Choose a Project:
 Browse the projects/ directory and select a project that interests you.
 
 Follow Project README:
-Each project has its own README file with detailed instructions on setup, usage, and analysis.
+Each project has its own code file with detailed instructions on analysis, and interpretations.
 
 Feedback and Support
 If you have questions, encounter issues, or want to share your insights, feel free to reach out. I encourage collaboration and value your feedback to make these projects beneficial for everyone.
